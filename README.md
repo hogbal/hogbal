@@ -38,3 +38,27 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hogbal&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### 🔥Experiences
+
+***도전학기제***
+
+- [docker를 이용한 ctf 서버 구축](https://github.com/hogbal/Malware-Detection)
+  
+***연구학점제***
+
+- [CNN을 이용한 악성코드 탐지 기법 연구](https://github.com/hogbal/CTFd)
+- 2021인공지능 그랜드 ict 연구센터 최우수상 수상
+  
+***RUP(창업 프로젝트)***
+
+- [Yolo를 이용한 Take-out컵 자동분리수거함](https://github.com/hogbal/RUP)
+- [LabelImg를 이용한 auto labeling program](https://github.com/hogbal/auto_labeling)
+- 2020.11 동남권 LINC+사업단 창업노마드 FAIR 최우수상 수상
+- 2021.02 동아대학교 동남권실험실 창업 혁신단 창업 Accelerating 프로그램 수료
+- 2021.07 KIC(Korea Innovation Center Washington DC)창업교육 수료
+- 2022.02 과학기술 정보통신부 공공기술 기반 해외시장 연계 창업 탐색지원 사업 수료
+
+***학술대회***
+
+- [SSD ResNet기반 Take-out컵 자동분리수거함](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583438)
