@@ -62,3 +62,7 @@
 ***학술대회***
 
 - [SSD ResNet기반 Take-out컵 자동분리수거함](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583438)
+
+### 자격증
+
+- 리눅스마스터 1급
