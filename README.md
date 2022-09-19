@@ -2,10 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;저는 새로운 기술을 탐구하는 것을 좋아하고 인공지능과 해킹, 서버에 관심이 많습니다.\
+💡 &nbsp;인공지능과 해킹, 서버에 관심이 많습니다.\
 🎓 &nbsp;저는 동아대학교 컴퓨터 공학과를 다니고 있습니다.\
-🌱 &nbsp;저는 현재 인공지능과 시스템해킹, 웹해킹을 공부하고 있습니다.\
-✍️ &nbsp;공부하고 기록하는 것을 좋아합니다. [github blog](https://hogbal.github.io/)를 참고해주세요.\
+🌱 &nbsp;저는 현재 인공지능과 해킹을 공부하고 있습니다.\
+✍️ &nbsp;github blog를 관리하고 있습니다. [github blog](https://hogbal.github.io/)를 참고해주세요.\
 💬 &nbsp;궁금한 사항이 있으시면 hogbal31@gmail.com으로 연락주세요!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -66,3 +66,7 @@
 ### 자격증
 
 - 리눅스마스터 1급
+
+### etc
+
+- [Dreamhack.io](https://dreamhack.io/users/958)
