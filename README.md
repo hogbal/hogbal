@@ -63,6 +63,10 @@
 
 - [SSD ResNet기반 Take-out컵 자동분리수거함](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583438)
 
+***외주***
+
+- [ALWIDA 관리자페이지 and Database 서버](https://github.com/hogbal/ALWIDA_server)
+
 ### 자격증
 
 - 리눅스마스터 1급
