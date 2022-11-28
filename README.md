@@ -43,11 +43,11 @@
 
 ***도전학기제***
 
-- [docker를 이용한 ctf 서버 구축](https://github.com/hogbal/Malware-Detection)
+- [docker를 이용한 ctf 서버 구축](https://github.com/hogbal/CTFd)
   
 ***연구학점제***
 
-- [CNN을 이용한 악성코드 탐지 기법 연구](https://github.com/hogbal/CTFd)
+- [CNN을 이용한 악성코드 탐지 기법 연구](https://github.com/hogbal/Malware-Detection)
 - 2021인공지능 그랜드 ict 연구센터 최우수상 수상
   
 ***RUP(창업 프로젝트)***
