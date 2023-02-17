@@ -65,10 +65,16 @@
 
 ***외주***
 
-- [ALWIDA](https://github.com/hogbal/ALWIDA_server)
+- [ALWIDA server](https://github.com/hogbal/ALWIDA_server)
   * Flask, jinja2, javascript, jquery, ajax를 이용한 웹개발
   * Docker-compose를 이용한 Database 서버 구축 및 웹서버 배포
   * 웹 해킹을 방지하기 위한 보안 정책 설정(CSP, Sql Injection)
+
+- [ALWIDA app](https://github.com/hogbal/ALWIDA_APP)
+  * react-native를 이용한 앱개발
+
+- [콘텐츠 매칭 플랫폿 서버](https://github.com/hogbal/alltalk_homepage)
+  * python flask를 이용한 웹 연동 데이터 서버 개발
 
 ### 자격증
 
