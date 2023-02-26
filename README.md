@@ -18,7 +18,7 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=black)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=black)&nbsp;\
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
-![linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Vmware](https://img.shields.io/badge/-Vmware-607078?style=flat&logo=vmware&logoColor=black)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=black)&nbsp;\
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=black)&nbsp;
@@ -27,7 +27,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=black)&nbsp;\
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=black)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=black)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=black)&nbsp;\
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
