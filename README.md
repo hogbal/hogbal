@@ -28,7 +28,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
 
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
