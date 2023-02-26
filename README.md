@@ -52,12 +52,18 @@
   
 ***RUP(창업 프로젝트)***
 
-- [Yolo를 이용한 Take-out컵 자동분리수거함](https://github.com/hogbal/RUP)
-- [LabelImg를 이용한 auto labeling program](https://github.com/hogbal/auto_labeling)
+
 - 2020.11 동남권 LINC+사업단 창업노마드 FAIR 최우수상 수상
 - 2021.02 동아대학교 동남권실험실 창업 혁신단 창업 Accelerating 프로그램 수료
 - 2021.07 KIC(Korea Innovation Center Washington DC)창업교육 수료
 - 2022.02 과학기술 정보통신부 공공기술 기반 해외시장 연계 창업 탐색지원 사업 수료
+
+- [Yolo를 이용한 Take-out컵 자동분리수거함](https://github.com/hogbal/RUP)
+- [LabelImg를 이용한 auto labeling program](https://github.com/hogbal/auto_labeling)
+- [RUP APP Server](https://github.com/hogbal/RUP_Server)
+  * spring과 mariadb를 이용한 앱 연동 데이터 서버 개발
+- [RUP APP](https://github.com/hogbal/RUP_APP)
+  * react native를 이용한 APP 기능 구현
 
 ***학술대회***
 
