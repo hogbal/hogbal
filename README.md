@@ -1,4 +1,4 @@
-<h2>hogbal👋</h2>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hogbal&fontSize=90)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -6,8 +6,6 @@
 🎓 &nbsp;저는 동아대학교 컴퓨터 공학과를 다니고 있습니다.\
 ✍️ &nbsp;github blog를 관리하고 있습니다. [blog](https://hogbal.tistory.com/)를 참고해주세요.\
 💬 &nbsp;궁금한 사항이 있으시면 hogbal31@gmail.com으로 연락주세요!
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
