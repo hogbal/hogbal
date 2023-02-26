@@ -80,8 +80,12 @@
 - [ALWIDA app](https://github.com/hogbal/ALWIDA_APP)
   * react-native를 이용한 앱개발
 
-- [콘텐츠 매칭 플랫폿 서버](https://github.com/hogbal/alltalk_homepage)
+- [콘텐츠 매칭 플랫 서버](https://github.com/hogbal/alltalk_homepage)
   * python flask를 이용한 웹 연동 데이터 서버 개발
+
+***그 외 프로젝트***
+
+- [hogbal.zsh-theme](https://github.com/hogbal/hogbal.zsh-theme)
 
 ### 자격증
 
