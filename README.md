@@ -48,6 +48,10 @@
 - [CNN을 이용한 악성코드 탐지 기법 연구](https://github.com/hogbal/Malware-Detection)
 - 2021인공지능 그랜드 ict 연구센터 최우수상 수상
   
+***졸업프로젝트***
+
+- [서버 위협도 시각화](https://github.com/Server-security-visualization)
+  
 ***RUP(창업 프로젝트)***
 
 
