@@ -20,6 +20,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Vmware](https://img.shields.io/badge/-Vmware-607078?style=flat&logo=vmware&logoColor=black)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=black)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-F7DF1E?style=flat&logo=flask&logoColor=black)&nbsp;
 
 조금 할 줄 알아요!
 
@@ -32,6 +33,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
+![Android](https://img.shields.io/badge/-Android-6DB33F?style=flat&logo=android&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -55,16 +57,16 @@
   
 ***졸업작품***
 
-- [서버 위협도 시각화](https://github.com/Server-security-visualization)
+- [딥러닝 기반 보안 시스템](https://github.com/Server-security-visualization)(현재 진행중)
   
 ***RUP(창업 프로젝트)***
 
 - 2021.02 동아대학교 동남권실험실 창업 혁신단 창업 Accelerating 프로그램 수료
-- 2021.07 2021 한국컴퓨터종합학술대회 학부생/주니어 논문경진대회 우수
+- 2021.07 2021 한국컴퓨터종합학술대회 학부생/주니어 논문경진대회 우수상
 - 2021.07 KIC(Korea Innovation Center Washington DC)창업교육 수료
 - 2022.02 과학기술 정보통신부 공공기술 기반 해외시장 연계 창업 탐색지원 사업 수료
 
-- [Yolo를 이용한 Take-out컵 자동분리수거함](https://github.com/hogbal/RUP)
+- [Yolo를 이용한 Take-out컵 자동분리수거함](https://github.com/hogbal/RUP_AI)
 - [LabelImg를 이용한 auto labeling program](https://github.com/hogbal/auto_labeling)
 - [RUP APP Server](https://github.com/hogbal/RUP_Server)
   * spring과 mariadb를 이용한 앱 연동 데이터 서버 개발
@@ -96,6 +98,6 @@
 
 - 리눅스마스터 1급
 
-### etc
+### 보안 공부
 
 - [Dreamhack.io](https://dreamhack.io/users/958)
