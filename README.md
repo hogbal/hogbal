@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hogbal&fontSize=90)
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;인공지능과 보안, 서버 개발에 관심이 많습니다.\
