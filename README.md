@@ -71,6 +71,11 @@
 - [RUP APP](https://github.com/hogbal/RUP_APP)
   * react native를 이용한 APP 기능 구현
 
+***보안***
+
+- BoB 12기 취약점 분석 트랙
+- 2023 Kospo 정보보안 경진대회 우수
+
 ***학술대회***
 
 - [SSD ResNet기반 Take-out컵 자동분리수거함](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583438)
