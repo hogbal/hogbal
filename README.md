@@ -60,7 +60,7 @@
   
 ***졸업작품***
 
-- [딥러닝 기반 보안 시스템](https://github.com/Server-security-visualization)(현재 진행중)
+- [딥러닝 기반 보안 시스템](https://github.com/Server-security-visualization)
   
 ***RUP(창업 프로젝트)***
 
