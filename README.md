@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;동아대학교 컴퓨터공학과 휴학중\
-🎓 &nbsp;BoB 12기 취약점 분석 트랙 Best 30\
+🎓 &nbsp;BoB 12기 취약점 분석 트랙 Best 10\
 💬 &nbsp;<hogbal31@gmail.com>
 
 ### 🛠 &nbsp;Tech Stack
